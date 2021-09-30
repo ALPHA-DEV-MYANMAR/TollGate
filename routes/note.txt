@@ -1,0 +1,16 @@
+Create Auth -> TC ,User ,Admin
+
+Get Frees Counter->
+    posts Table -> Lane1,TC,Frees,Date and Time,imputCar image,outputCar image,Car Class,
+
+In Id Room->
+    For User-
+        Show Data -> list and Single Data,Catch up,
+
+    For Admin-
+        Show Data -> list and Single Data,Catch up,Add data,Edit data and Delete data 
+                    -> Create new user and give roles 
+        
+
+
+
